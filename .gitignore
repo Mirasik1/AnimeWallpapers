@@ -1,3 +1,4 @@
 .Video
 .venv
 *.mp4
+.idea
